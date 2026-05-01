@@ -1,0 +1,6 @@
+{
+  "name": "SentimentSense AI Dashboard",
+  "description": "An advanced social media sentiment analysis dashboard powered by Gemini AI, featuring real-time analysis, batch CSV processing, and interactive visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
