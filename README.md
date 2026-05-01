@@ -25,15 +25,29 @@
 
 ## 📸 Demo Preview
 
-| 📊 Analytics Dashboard | 🔍 Single Text Analysis |
-| :---: | :---: |
-| ![Dashboard](./images/dashboard.png) | ![Single](./images/single.png) |
-| *Aggregate telemetry distribution* | *Real-time contextual inference* |
+### 1️⃣ Dashboard Overview
+![Dashboard](01_dashboard_overview.png)
+Global analytics dashboard showing sentiment distribution, confidence metrics, and system telemetry.
 
-| 📂 Batch Pipeline | 🧬 ML Explorer |
-| :---: | :---: |
-| ![Batch](./images/batch.png) | ![Pipeline](./images/pipeline.png) |
-| *Mass ingestion & extraction* | *Visualizing the classic ML workflow* |
+### 2️⃣ Sentiment Distribution & Trends
+![Trends](02_sentiment_distribution_and_trends.png)
+Sentiment spread and temporal polarity trends across multiple time intervals.
+
+### 3️⃣ Trend Insights & Predictive Analysis
+![Insights](03_trend_insights_and_predictive_analysis.png)
+AI-powered trend detection highlighting key customer issues and predictive insights.
+
+### 4️⃣ Single Text Analysis
+![Single](04_single_text_sentiment_analysis.png)
+Real-time sentiment classification with confidence score and key phrase extraction.
+
+### 5️⃣ Batch Processing Pipeline
+![Batch](05_batch_processing_pipeline.png)
+CSV-based batch ingestion pipeline processing multiple records with sentiment predictions.
+
+### 6️⃣ ML Pipeline Visualization
+![ML Pipeline](06_ml_pipeline_visualization.png)
+Visualization of the traditional ML pipeline: preprocessing → TF-IDF → Logistic Regression.
 
 ---
 
